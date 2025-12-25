@@ -67,6 +67,23 @@ function Footer() {
                     </li>
                 </ul>
             </details>
+             <details>
+                <summary>About Us <span>+</span></summary>
+                <ul>
+                    <li>
+                        <a href="">Nutritional Information</a>
+                    </li>
+                    <li>
+                        <a href="">Privac & Cookies</a>
+                    </li>
+                    <li>
+                        <a href="">Terms and Conditions</a>
+                    </li>
+                    <li>
+                        <a href="">Legal</a>
+                    </li>
+                </ul>
+            </details>
         </section>
 
         <section>
