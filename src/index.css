@@ -106,7 +106,7 @@ a {
     left: 0;
     right: 0;
     top: 70px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
     display: none;
     width: 100%;
     padding: 25px 20px;
@@ -149,12 +149,17 @@ a {
     gap: 10px;
     justify-content: center;
 
+    a{
+      color:rgb(209, 209, 209);
+      font-weight:500;
+
+    }
+
     button {
-      padding: 10px 6px;
+      padding: 12px 40px;
       border: none;
-      background-color: black;
-      color: white;
       border-radius: 8px;
+      background-color: rgba(255,255,255,0.2);
     }
   }
 
@@ -372,6 +377,8 @@ a {
 }
 
 
+/* Form Login & Register */
+
 .form {
   padding: 0 30px;
   display: flex;
@@ -385,7 +392,7 @@ a {
   }
 
   form {
-    padding:50px 0;
+    padding: 50px 0;
   }
 
   form div {
@@ -403,7 +410,8 @@ a {
     border: none;
     border-radius: 14px;
     margin-bottom: 6px;
-      background-color: rgba(255, 255, 255,0.1);
+    background-color: rgba(255, 255, 255, 0.1);
+    color:white;
   }
 
   span {
@@ -412,10 +420,13 @@ a {
 
   .form_btn_submit {
     margin-top: 60px;
+
     input {
-      background-color: rgba(255, 255, 255,0.1);
-      border:1px solid rgba(255, 255, 255,0.4);
-      color:white;
+      background-color: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      color: white;
+      padding:14px 0;
+      font-size:16px;
     }
   }
 }
