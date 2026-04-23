@@ -14,7 +14,7 @@ function Footer() {
 
         <section>
             <details>
-                <summary>Company <span>+</span></summary>
+                <summary>Company <img src="/img/arrowDown.svg" alt="" /> </summary>
                 <ul>
                     <li>
                         <a href="">Contact</a>
@@ -34,7 +34,7 @@ function Footer() {
                 </ul>
             </details>
             <details>
-                <summary>Information <span>+</span></summary>
+                <summary>Information <img src="/img/arrowDown.svg" alt="" /> </summary>
                 <ul>
                     <li>
                         <a href="">About us</a>
@@ -51,7 +51,7 @@ function Footer() {
                 </ul>
             </details>
              <details>
-                <summary>Security <span>+</span></summary>
+                <summary>Security <img src="/img/arrowDown.svg" alt="" /> </summary>
                 <ul>
                     <li>
                         <a href="">Nutritional Information</a>
@@ -68,7 +68,7 @@ function Footer() {
                 </ul>
             </details>
              <details>
-                <summary>About Us <span>+</span></summary>
+                <summary>About Us <img src="/img/arrowDown.svg" alt="" /> </summary>
                 <ul>
                     <li>
                         <a href="">Nutritional Information</a>
@@ -88,7 +88,7 @@ function Footer() {
 
         <section>
 
-            <p> Copyright C 2025 Candies Center <br /> <span>All Rights Reserved</span></p>
+            <p> Copyright  2026 Candies Center <br /> <span>All Rights Reserved</span></p>
             <div>
                 <img src="/img/apple_pay.svg" alt="" />
                 <img src="/img/mastercard_pay.svg" alt="" />
